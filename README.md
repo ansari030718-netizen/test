@@ -3,7 +3,7 @@ This release delivers important hotfixes, reporting enhancements, and usability 
 
 Hotfixes & Improvements
 1. Reports & Intercept Client Compatibility
-    - Adjusted report logic to ensure compatibility with custom scenarios.
+•	Adjusted report logic to ensure compatibility with custom scenarios.
 2. Extract Comm Direction Handling
 •	Fixed issues with the Direction field in Extract Comm
 3. Report File Management
